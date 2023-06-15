@@ -1,5 +1,6 @@
 # StrtRace
 A little project to build a street racing interface 
+===================================================================
 
 WARNING THIS PROJECT IS A PAIN IN THE ASS TO SETUP!!!!!!! 
 But go ahead it's fun.
@@ -7,8 +8,8 @@ But go ahead it's fun.
 ===================================================================
 1.BUILD THE CAPTOR FOLLOWING THE BLUEPRINT
 2.INSTALL THE APK
-3.INSTALL XAMPP
-4.SETUP A XAMPP SERVER
+3.INSTALL XAMPP https://www.apachefriends.org/fr/index.html
+4.SETUP A XAMPP SERVER (HTTP port:80,443 SQL port:3307)
 5.IN THE HTDOCS FOLDER PUT (GetImportantTime.ph / GetInstantTimer.php / GetPb.php / GetTime.php)
 6.OPEN EACH ONE OF THEM AND PUT THE REQUIRED INFO WHERE NEEDED
 7.CREATE THE FOLLOWING SQL DATABASE STRUCTURE IN THE XAMPP SERVER:
@@ -30,4 +31,5 @@ chrono
 13.OPEN YOUR CMD ON WINDOWS 
 14.ENTER "cd C:/WHEREYOURFOLDERIS"
 15.ENTER "node arduino.js"
-
+16.LUNCH THE APP 
+17.RACE 
