@@ -6,6 +6,7 @@ WARNING THIS PROJECT IS A PAIN IN THE ASS TO SETUP!!!!!!!
 But go ahead it's fun.
 
 ===================================================================
+
 1.BUILD THE CAPTOR FOLLOWING THE BLUEPRINT
 2.INSTALL THE APK
 3.INSTALL XAMPP https://www.apachefriends.org/fr/index.html
@@ -31,5 +32,5 @@ chrono
 13.OPEN YOUR CMD ON WINDOWS 
 14.ENTER "cd C:/WHEREYOURFOLDERIS"
 15.ENTER "node arduino.js"
-16.LUNCH THE APP 
+16.LAUNCH THE APP 
 17.RACE 
