@@ -8,7 +8,7 @@ But go ahead it's fun.
 2) INSTALL THE APK
 3) INSTALL XAMPP https://www.apachefriends.org/fr/index.html
 4) SETUP A XAMPP SERVER (HTTP port:80,443 SQL port:3307)
-5) IN THE HTDOCS FOLDER PUT (GetImportantTime.ph / GetInstantTimer.php / GetPb.php / GetTime.php)
+5) IN THE HTDOCS FOLDER PUT (GetImportantTime.php / GetInstantTimer.php / GetPb.php / GetTime.php)
 6) CREATE THE FOLLOWING SQL DATABASE STRUCTURE IN THE XAMPP SERVER:
 
 ```
