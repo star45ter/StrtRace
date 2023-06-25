@@ -38,4 +38,10 @@ chrono
 17) ENTER "node arduino.js"
 18) LAUNCH THE APP
 19) ENTER YOUR IPV4 IN THE APP ( https://whatismyipaddress.com/ )
-20) RACE 
+20) RACE
+
+
+
+
+
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/star45ter/StrtRace/main/fuckinsliding_logo.png)https://raw.githubusercontent.com/star45ter/StrtRace/main/fuckinsliding_logo.png)
