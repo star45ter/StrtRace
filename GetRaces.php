@@ -1,7 +1,6 @@
 <?php
     $con = mysqli_connect("127.0.0.1:3307", "root", "", "chrono");
-    $track = $_POST["track"];
-    $track = $con->real_escape_string($track);
+
    
 
 
@@ -9,14 +8,13 @@ if ($con->connect_error) {
   die("Connection failed: " . $con->connect_error);
 }
 
-$sql = "SELECT * FROM chrono WHERE track='".$track."' ORDER BY `chrono`.`chrono` ASC LIMIT 3";
- 
+$sql = "SELECT * FROM races";
 $result = $con->query($sql);
 
 if ($result->num_rows > 0) {
   // output data of each row
   while($row = $result->fetch_assoc()) {
-    echo "::".$row["driver"]."::".$row["chrono"];
+    echo $row["name"]."::".$row["distance"]."::".$row["place"]."::";
   }
 } else {
   echo "N/A";
