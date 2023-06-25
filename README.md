@@ -44,4 +44,4 @@ chrono
 
 
 
-![alt text](https://raw.githubusercontent.com/star45ter/StrtRace/main/fuckinsliding_logo.png)https://raw.githubusercontent.com/star45ter/StrtRace/main/fuckinsliding_logo.png)
+![Brought to you by M.DEZEQUE from FKNSLIDING](https://raw.githubusercontent.com/star45ter/StrtRace/main/fuckinsliding_logo.png)
