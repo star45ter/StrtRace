@@ -44,4 +44,4 @@ chrono
 
 
 
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/star45ter/StrtRace/main/fuckinsliding_logo.png)https://raw.githubusercontent.com/star45ter/StrtRace/main/fuckinsliding_logo.png)
+![alt text](https://raw.githubusercontent.com/star45ter/StrtRace/main/fuckinsliding_logo.png)https://raw.githubusercontent.com/star45ter/StrtRace/main/fuckinsliding_logo.png)
